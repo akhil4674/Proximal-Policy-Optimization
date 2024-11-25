@@ -1,5 +1,13 @@
-# Proximal-Policy-Optimization
-This code implements the Proximal Policy Optimization (PPO) algorithm using TensorFlow and NumPy. PPO is a reinforcement learning algorithm used to train agents to make decisions in an environment.
+---
+name: Proximal Policy Optimization (PPO)
+about: his code implements the Proximal Policy Optimization (PPO) algorithm using
+  TensorFlow and NumPy. PPO is a reinforcement learning algorithm used to train agents
+  to make decisions in an environment.
+title: ''
+labels: ''
+assignees: ''
+
+---
 
 **Important Classes:**
 
